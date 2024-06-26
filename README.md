@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamolamo Luis Paolo Ventura Márquez</h1>
+<h1 align="center">Hola 👋, me llamo Luis Paolo Ventura Márquez</h1>
 <h3 align="center">Un apasionado Junior Developer</h3>
 
 - 📫 Como contactarme **paoventmar@gmail.com**
